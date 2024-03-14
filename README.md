@@ -1,6 +1,6 @@
 # Python_zero_to_expert
 Este es un curso de python en el cual estamos avanzando por secciones, estas van de lo más basico hasta lo más profesional, es decir el curso es de cero a experto.
-
+![Aviso](ruta/a/imagen.png)
 > .[!NOTE].
 Secciones vistas:
 - Seccion 1 : Bienvenida
