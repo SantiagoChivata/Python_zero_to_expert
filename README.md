@@ -10,6 +10,6 @@ Secciones vistas:
 
 Para cada Seccion se esta generando un archivo de python '.py', a excepcion de las primeras 3 secciones ya que son introductorias.
 
-> .[!IMPORTANT].\n para ejecutar cada archivo debes ingresar el siguiente comando en la consola: python <nombre_archivo.py>
+> [!IMPORTANT] para ejecutar cada archivo debes ingresar el siguiente comando en la consola: python <nombre_archivo.py>
 
 Sigue Adelante Developer!!
