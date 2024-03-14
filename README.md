@@ -1,7 +1,6 @@
 # Python_zero_to_expert
 Este es un curso de python en el cual estamos avanzando por secciones, estas van de lo más basico hasta lo más profesional, es decir el curso es de cero a experto.
-![Aviso](ruta/a/imagen.png)
-> .[!NOTE].
+
 Secciones vistas:
 - Seccion 1 : Bienvenida
 - Seccion 2 : Introduccion
@@ -12,6 +11,7 @@ Secciones vistas:
 Para cada Seccion se esta generando un archivo de python '.py', a excepcion de las primeras 3 secciones ya que son introductorias.
 
 > .[!IMPORTANT].
+
 para ejecutar cada archivo debes ingresar el siguiente comando en la consola: python <nombre_archivo.py>
 
 Sigue Adelante Developer!!
