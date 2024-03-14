@@ -8,7 +8,6 @@ Este es un curso de python en el cual estamos avanzando por secciones, estas van
 > - Seccion 3 : Variables
 > - Seccion 4 : Tipos de Datos
 > - Seccion 5 : Operadores
-
 > Para cada Seccion se esta generando un archivo de python '.py', a excepcion de las primeras 3 secciones ya que son introductorias.
 
 > [!IMPORTANT]
