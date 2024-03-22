@@ -8,10 +8,10 @@ Este es un curso de python en el cual estamos avanzando por secciones, estas van
 > - Seccion 3 : Variables
 > - Seccion 4 : Tipos de Datos
 > - Seccion 5 : Operadores
->> - Operadores aritmeticos
->> - Operadores de asignacion
->> - Operadores de comparacion
->> - Operadores logicos
+>> * Operadores aritmeticos
+>> * Operadores de asignacion
+>> * Operadores de comparacion
+>> * Operadores logicos
 > 
 > Para cada Seccion se esta generando una carpeta y dentro de ella un archivo de python '.py' con los temas y ejercicios vistos, a excepcion de las primeras 3 secciones ya que son introductorias.
 
