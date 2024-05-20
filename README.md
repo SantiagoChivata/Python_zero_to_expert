@@ -12,6 +12,14 @@ Este es un curso de python en el cual estamos avanzando por secciones, estas van
 >   * Operadores de asignacion
 >   * Operadores de comparacion
 >   * Operadores logicos
+> - Seccion 6 : sentencias de control en python
+>   * Sentencia if /else
+>   * Modo debug
+>   * Convertir numero a texto
+>   * Sintaxis simplificada de if / else
+>   * Ejercicio: Estacion del año según el mes
+>   * Ejercicio: Etapas de la vida segun tu edad
+>   * Ejercicio: Calificaciones para un colegio
 > 
 > Para cada Seccion se esta generando una carpeta y dentro de ella un archivo de python '.py' con los temas y ejercicios vistos, a excepcion de las primeras 3 secciones ya que son introductorias.
 
