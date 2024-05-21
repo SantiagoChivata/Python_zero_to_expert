@@ -1,4 +1,4 @@
-# Python_zero_to_expert
+# Python zero to expert
 Este es un curso de python en el cual estamos avanzando por secciones, estas van de lo más basico hasta lo más profesional, es decir el curso es de cero a experto.
 
 > [!NOTE]
@@ -20,6 +20,13 @@ Este es un curso de python en el cual estamos avanzando por secciones, estas van
 >   * Ejercicio: Estacion del año según el mes
 >   * Ejercicio: Etapas de la vida segun tu edad
 >   * Ejercicio: Calificaciones para un colegio
+> - Seccion 7 : Ciclos en python
+>   * Ciclo While
+>   * Ejercicio: imprimir los numeros del 1 al 15 con el ciclo While
+>   * Ejercicio: imprimir los numeros del 15 al 1 con el ciclo While
+>   * Ciclo For
+>   * Instruccion Break en los ciclos
+>   * Instruccion Continue en los ciclos
 > 
 > Para cada Seccion se esta generando una carpeta y dentro de ella un archivo de python '.py' con los temas y ejercicios vistos, a excepcion de las primeras 3 secciones ya que son introductorias.
 
